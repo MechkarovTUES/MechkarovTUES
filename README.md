@@ -1,4 +1,4 @@
-# :dizzy: About Me:
+# About Me:
 :bulb: ELSYS student :_)<br>:brain: Enthusiast :D
 
 
