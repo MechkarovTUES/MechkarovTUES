@@ -1,5 +1,5 @@
 # About Me:
-:bulb: ELSYS student :_)<br>:brain: Enthusiast :D
+:bulb: ELSYS student :_)<br>:brain: Enthusiast
 
 
 # :computer: Tech Stack:
